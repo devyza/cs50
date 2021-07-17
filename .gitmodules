@@ -7,3 +7,6 @@
 [submodule "pset8/tracks/Notes"]
 	path = pset8/tracks/Notes
 	url = https://github.com/devyza/Notes.git
+[submodule "project/MoneyTracker50"]
+	path = project/MoneyTracker50
+	url = https://github.com/devyza/MoneyTracker50
