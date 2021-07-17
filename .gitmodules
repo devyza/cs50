@@ -1,0 +1,9 @@
+[submodule "pset8/tracks/Fiftygram"]
+	path = pset8/tracks/Fiftygram
+	url = https://github.com/devyza/Fiftygram.git
+[submodule "pset8/tracks/Pokedex"]
+	path = pset8/tracks/Pokedex
+	url = https://github.com/devyza/Pokedex.git
+[submodule "pset8/tracks/Notes"]
+	path = pset8/tracks/Notes
+	url = https://github.com/devyza/Notes.git
