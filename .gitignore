@@ -1,0 +1,6 @@
+*
+!*.*
+!*/
+*.exe
+!Makefile
+__pycache__/
